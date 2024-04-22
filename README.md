@@ -7,6 +7,6 @@
 >   Pandas  
 >   GIT
 ## Diary
->   Month
->   Weekly
->   Daily
+>   Month  
+>   Weekly  
+>   Daily  
